@@ -4,3 +4,4 @@ From the [Skillfactory Data science course](https://skillfactory.ru/data-scienti
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/ph06/sf_data_science/tree/main/game_project)
+* [Проект 1. Анализ резюме из HeadHunter](https://github.com/ph06/sf_data_science/tree/main/project_1)
