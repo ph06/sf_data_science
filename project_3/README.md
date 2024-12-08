@@ -1,4 +1,4 @@
-<center><img src=https://www.kaggle.com/competitions/34288/images/header alt="drawing"/></center>
+<center><img src=./images/header.png alt="drawing"/></center>
 
 # Проект 3. Прогнозирование рейтинга отеля на Booking
 
